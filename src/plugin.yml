@@ -1,0 +1,8 @@
+main: com.gmail.subarucantdie.OxyShop.Main
+author: Subaru
+name: OxyShop
+
+version: 0.0.1
+api-version: 1.16
+
+softdepend: [GuiAPI, Essentials, Vault]
